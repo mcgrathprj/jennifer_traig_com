@@ -5,3 +5,19 @@ body {
 h1 {
   font-family: 'Amatic SC', cursive;
 }
+
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #FFFFFF;
+  text-decoration: underline;
+}
+
+#nav {
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  background-color: #7F4145
+}
